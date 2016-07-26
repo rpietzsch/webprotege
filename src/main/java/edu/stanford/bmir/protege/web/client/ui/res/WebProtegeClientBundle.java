@@ -15,7 +15,7 @@ public interface WebProtegeClientBundle extends ClientBundle {
 
     public static final WebProtegeClientBundle BUNDLE = GWT.create(WebProtegeClientBundle.class);
 
-    @Source("protege-logo.png")
+    @Source("eccenca-logo.png")
     ImageResource webProtegeLogo();
 
     @Source("about.html")
